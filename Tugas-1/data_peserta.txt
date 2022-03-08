@@ -1,0 +1,6 @@
+Data Peserta Jabar Coding Camp Golang
+1. Nama: Muhammad Afryan Saputra
+2. Email: afryan54@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Gitlab/Github: SaputraAfryan
+5. Akun Telegram: Muhammad Afryan Saputra
